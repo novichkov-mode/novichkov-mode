@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi, I'm Ivan 👋
 
+## About: I am a Java/Kotlin developer. At the moment I am interested in backend development with microservice architecture. I am also trying to write scientific articles with ML.
+Education: VSTU, Software Engineering
 <!--
 **novichkov-mode/novichkov-mode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

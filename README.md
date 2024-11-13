@@ -1,18 +1,15 @@
 ## Hi, I'm Ivan 👋
 
-## About: I am a Java/Kotlin developer. At the moment I am interested in backend development with microservice architecture. I am also trying to write scientific articles with ML.
-Education: VSTU, Software Engineering
-<!--
-**novichkov-mode/novichkov-mode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **About:** I am a Java developer. At the moment I am interested in backend development with microservice architecture.
+- **Education:** VSTU, Software Engineering
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+**Programming languages:** 
+  - Java
+  - C
+  
+**Frameworks and Libraries:** 
+  - Spring Boot
+  
+**Databases:** 
+  - PostgreSQL
